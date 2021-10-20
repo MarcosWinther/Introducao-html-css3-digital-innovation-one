@@ -1,0 +1,8 @@
+Informações das fotos:
+
+- Todas as fotos disponíveis no site: https://unsplash.com/
+
+Photo by <a href="https://unsplash.com/@pankajpatel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pankaj Patel</a> on <a href="https://unsplash.com/s/photos/html-code?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Photo by <a href="https://unsplash.com/@mullyadii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mulyadi</a> on <a href="https://unsplash.com/s/photos/avatar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
