@@ -1,5 +1,5 @@
 body {
-	background: #CCC;
+	background: #FCFCFC;
 }
 
 #title, .subtitle, .post_title {
@@ -14,6 +14,6 @@ body {
 .post {
 	background: #FFF;
 	padding: 10px;
-	border: 3px solid #000;
+	border: 3px solid blue;
 	margin: 10px;
 }
