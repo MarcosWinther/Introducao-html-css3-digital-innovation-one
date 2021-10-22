@@ -1,6 +1,8 @@
 body {
 	background: #F7F7F7;
 	font-family: Verdana;
+	max-width: 900px;
+	margin: auto;
 }
 
 .photo {
@@ -45,10 +47,12 @@ a {
 	margin-bottom: 15px;
 	/* capitalize: coloca as primeiras letras de cada palavra maiúscula */
 	text-transform: capitalize;
+	text-align: justify;
 }
 
 .post_image {
 	margin-bottom: 15px;
+	width: 100%;
 }
 
 .contacts_list {
